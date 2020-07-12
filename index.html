@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Polar Animals</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
+    <script src="jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js">
+    </script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+    <header>
+        <nav class="normal">
+            <div class="container-fluid">
+                <div class="logo">
+                    <a href="#">
+                        <img src="images/" />
+                </div>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="snowy-owl.html">Snowy Owls</a></li>
+                    <li><a href="polar-bears.html">Polar Bears</a></li>
+                    <li><a href="arctic-fox.html">Arctic Foxes</a></li>
+                    <li><a href="penguins.html">Penguins</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <h1>POLAR</h1>
+        <h1>ANIMALS</h1>
+    </header>
+
+    <div class="slider mobile-only">
+        <div>
+            <img src="images/owl-2.jpg" alt="Snowy Owl">
+        </div>
+        <div>
+            <img src="images/bear-2.jpg" alt="Polar bear">
+        </div>
+        <div>
+            <img src="images/fox.jpg" alt="Arctic Fox">
+        </div>
+        <div>
+            <img src="images/penguins-0.jpg" alt="Penguins">
+        </div>
+    </div>
+
+     <ol class="slider-nav-thumbnails flex-control-paging mobile-only">
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+    </ol>
+
+    <div class="slider wide-screen">
+        <div>
+            <img src="images/owl-wide.jpg" alt="Snowy Owl">
+        </div>
+        <div>
+            <img src="images/bear-wide.jpg" alt="Polar bear">
+        </div>
+        <div>
+            <img src="images/fox-wide.jpg" alt="Arctic Fox">
+        </div>
+        <div>
+            <img src="images/penguins-wide.png" alt="Penguins">
+        </div>
+    </div>
+
+    <section class="articles container-fluid">
+
+        <center>
+            <article class="polar-region" id="intro">
+                <h1>Polar regions</h1>
+                <p>
+                    Polar regions distinguish from other regions mainly due to the low
+                temperatures and rough enviroment. However, in these extreeme
+                conditions live animals who have successfully adapted to them and
+                are interesting to explore. Some of them even cute.
+                </p>
+            </article>
+        </center>
+
+        <center>
+        <article class="snowy-owl">
+            <img src="images/owl.jpg" />
+            <h1>Snowy Owl</h1>
+            <p>
+               Unlike most of the owls this one copes with extreeme enviroment. Snowy owls are 
+                native to the arctic, have thick fur and noble apperance. The magnificent look 
+                and ability to survive in extreemly low temperatures makes them мajestic yet adorable.
+            </p>
+            <a href="snowy-owl.html"><button>Learn more &gt;&gt;</button></a>
+        </article>
+
+        <article class="polar-bear">
+            <img src="images/bear-3.jpg" />
+            <h1>Polar Bear</h1>
+            <p>
+                Massive, strong, with killing instincts, polar bears are tough predators in a 
+                harsh environment. They are at the top of the food chain and their diet is 
+                completely meat based. Frightful and terrifying yet tender and loving for their sweet 
+                precious cubs. 
+            </p>
+            <a href="polar-bears.html"><button>Learn more &gt;&gt;</button></a>
+        </article>
+            </center>
+
+        <center>
+        <article class="polar-fox">
+            <img src="images/fox-4.jpg" />
+            <h1>Arctic Fox</h1>
+             <p> 
+                           Being a tiny animal in an enviroment with extremly low temperatures, lack
+         of food and tough predators isn't an easy job. Small and clever, Arctic fox
+         manages to resist the harash enviroment and continue to be interesting to 
+         explore and adorable.
+             </p>
+            <a href="arctic-fox.html"><button>Learn more &gt;&gt;</button></a>
+        </article>
+
+        <article class="penguin">
+            <img src="images/penguins.jpg" />
+            <h1>Penguin</h1>
+            <p>
+                    Penguins are classified as birds, but they have adjusted to swimming 
+                 rather than flying. They are excelent swimmers which helps them catch
+                 their pray. It's common knowledge that penguins inhabit Antarctica but
+                 that's not true about some species.
+            </p>
+            <a href="arctic-fox.html"><button>Learn more &gt;&gt;</button></a>
+        </article>
+    </section>
+    </center>
+
+    <script>
+        $('.slider').slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: true,
+            fade: true,
+            asNavFor:
+              '.slider-nav-thumbnails',
+        });
+
+        $('.slider-nav-thumbnails')
+        .slick({
+            slidesToShow: 4,
+            slidesToScroll: 1,
+            asNavFor: '.slider',
+            dots: true,
+            focusOnSelect: true
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,633 @@
+html body {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #53346D, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #53346D, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+header nav ul li {
+    display: inline-block;
+}
+
+nav {
+    background: #24292E;
+    opacity: 0.7;
+    font-size: 20px;
+    font-family: sans-serif;
+    height: 75px;
+    margin-bottom: 30px;
+}
+
+
+ul {
+    list-style: none;
+    float: left;
+    position: relative;
+    bottom: -25px;
+}
+
+ul li {
+    display: inline-block;
+    margin-right: 25px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #C8C9CA;
+}
+
+div.intro {
+    color: white;
+    text-align: justify;
+    padding: 30px;
+    background: #780206;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #061161, #780206);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #061161, #780206); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: calc(100% - 100px);
+    margin: 30px auto;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+div.intro img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 15px;
+    position: relative;
+    top: -15px;
+}
+
+body article {
+     padding: 50px;
+     margin-top: 5px;
+     margin-bottom: 5px;
+     color: white;
+     vertical-align: top;
+     width: 32%;
+     display: inline-block;
+     margin-right: 10px;
+     border-radius: 10px;
+}
+
+body article p {
+    height: 100px;
+    text-align: justify;
+    font-size: 18px;
+}
+
+body article h1 {
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+
+
+body article:nth-child(1) {
+    background: rgba(255, 0, 0, 0.4);;
+}
+
+body article:nth-child(2) {
+    background: rgba(255, 0, 255, 0.4);;
+}
+
+body article:nth-child(3) {
+    background: rgba(0, 0, 255, 0.4);
+}
+
+body article:nth-child(4) {
+    background: rgba(255, 255, 0, 0.4);
+}
+
+body article:nth-child(5) {
+    background: rgba(93, 63, 182, 0.4);
+}
+
+body article:nth-child(6) {
+    background: rgba(0, 255, 0, 0.4);
+}
+
+body article:nth-child(7) {
+    background: rgba(255, 6, 108, 0.4);
+}
+
+body article:nth-child(8) {
+    background: rgba(39, 131, 197, 0.4);
+}
+
+body article:nth-child(9) {
+    background: rgba(187, 255, 17, 0.4);
+}
+
+body article:nth-child(10) {
+    background: rgba(255, 164, 255, 0.4);
+}
+
+body article:nth-child(11) {
+    background: rgba(255, 44, 44, 0.4);
+}
+
+body article:nth-child(12) {
+    background: rgba(0, 255, 0, 0.4);
+}
+
+article img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    float: left;
+    position: relative;
+    left: -25px;
+    top: -15px;
+}
+
+section.compare {
+    margin: 30px auto;
+    background: rgba(255, 0, 255, 0.4);
+    width: 98%;
+    border-radius: 10px;
+    min-height: 2px;
+    overflow: hidden;
+}
+
+section.compare h1{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+section.compare img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+div.content>article {
+    margin: 10px 10px;
+    font-size: 22px;
+    width: 53%;
+    background: rgba(10, 255, 200, 0.4);
+    display: inline-block;
+    font-size: 25px;
+}
+
+div.content {
+    display: flex;
+    flex-flow: row;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+div.content article {
+    width: 45%;
+    font-size: 20px;
+}
+
+article ul {
+    display: inline-block;
+    width: calc(100% - 120px);
+    position: relative;
+    top: -20px;
+    list-style: circle;
+    list-style-type: circle;
+}
+
+article ul li{
+    margin-bottom: 10px;
+}
+
+div.comparison article img {
+    display: inline-block;
+}
+
+
+div.comparison {
+    display: inline-block;
+    width: 48%;
+    margin-bottom: 10px;
+}
+
+div.comparison article{
+    display: inline-block;
+    width: 100%;
+    padding-bottom: 0px;
+    font-size: 22px;
+}
+
+div.comparison article img {
+    left: 0;
+    margin-bottom: 10px;
+}
+
+body div.content>article {
+    background: rgba(0, 255, 0, 0.4);
+}
+
+body div.content>article:hover {
+    background: rgba(0, 255, 0, 0.7);
+}
+
+body div.content div.comparison>:first-child {
+    background: rgba(0, 0, 255, 0.4);
+}
+
+body div.content div.comparison>:first-child:hover {
+    background: rgba(0, 0, 255, 0.7);
+}
+
+
+footer {
+    color: white;
+    text-align: center;
+}
+
+footer h1 {
+    margin-bottom: 30px;
+}
+
+footer section {
+    width: 300px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+footer section img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+footer a {
+    display: inline-block;
+    color: white;
+    margin-right: 20px;
+}
+
+footer section.first {
+    background: rgba(0, 0, 255, 0.4);
+    padding: 30px 10px;
+    margin-bottom: 20px;
+}
+
+footer section.second {
+    background: rgba(93, 63, 182, 0.4);
+    padding: 30px 10px;
+    margin-bottom: 20px;
+}
+
+footer section.third {
+    background: rgba(39, 131, 197, 0.4);
+    padding: 30px 10px;
+    margin-bottom: 20px;
+}
+
+footer div.chech-out {
+    display: flex;
+    flex-wrap: row;
+    flex-grow: 1;
+}
+
+footer section.first:hover {
+    background: rgba(0, 0, 255, 0.7);
+    cursor: pointer;
+    color: white;
+}
+
+
+footer section.second:hover {
+    background: rgba(93, 63, 182, 0.7);
+    cursor: pointer;
+    color: white;
+}
+
+footer section.third:hover {
+    background: rgba(39, 131, 197, 0.7);
+    cursor: pointer;
+    color: white;
+}
+
+body article:nth-child(1):hover {
+    background: rgba(255, 0, 0, 0.7);
+}
+
+body article:nth-child(2):hover {
+    background: rgba(255, 0, 255, 0.7);;
+}
+
+body article:nth-child(3):hover {
+    background: rgba(0, 0, 255, 0.7);
+}
+
+body article:nth-child(4):hover {
+    background: rgba(255, 255, 0, 0.7);
+}
+
+body article:nth-child(5):hover{
+    background: rgba(93, 63, 182, 0.7);
+}
+
+body article:nth-child(6):hover {
+    background: rgba(0, 255, 0, 0.7);
+}
+
+body article:nth-child(7):hover {
+    background: rgba(255, 6, 108, 0.7);
+}
+
+body article:nth-child(8):hover {
+    background: rgba(39, 131, 197, 0.7);
+}
+
+body article:nth-child(9):hover {
+    background: rgba(187, 255, 17, 0.7);
+}
+
+body article:nth-child(10):hover {
+    background: rgba(255, 164, 255, 0.7);
+}
+
+body article:nth-child(11):hover {
+    background: rgba(255, 44, 44, 0.7);
+}
+
+body article:nth-child(12):hover {
+    background: rgba(0, 255, 0, 0.7);
+}
+
+@media screen and (max-width: 1180px) {
+   article h1 {
+        font-size: 30px;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+   body article p {
+        font-size: 22px;
+    }
+
+       article h1 {
+        font-size: 38px;
+    }
+}
+
+@media screen and (min-width: 1070px) {
+    body article:nth-child(3) {
+        margin-right: 0;        
+    }
+
+    body article:nth-child(6) {
+        margin-right: 0;
+    }
+
+    body article:nth-child(9) {
+        margin-right: 0;
+    }
+
+    body article:nth-child(12) {
+        margin-right: 0;
+    }
+
+}
+
+@media screen and (max-width: 1070px) {
+    body article:nth-child(2) {
+        margin-right: 0;        
+    }
+
+    body article:nth-child(4) {
+        margin-right: 0;
+    }
+
+    body article:nth-child(6) {
+        margin-right: 0;
+    }
+
+    body article:nth-child(8) {
+        margin-right: 0;
+    }
+
+    body article:nth-child(10) {
+        margin-right: 0;
+    }
+
+    body article:nth-child(12) {
+        margin-right: 0;
+    }
+
+    body article {
+        width: 47%;
+    }
+
+    body article h1 {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+
+    body article {
+        width: 95%;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding: 20px;
+    }
+
+    body article img {
+        left: 25px;
+    }
+
+    article p {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width:1750px) {
+    div.content>article {
+        width: 37%;
+    }
+
+    div.comparison {
+        width: 50%;
+    }
+
+}
+
+@media screen and (max-width:1900px) {
+    div.content>article {
+        width: 33%;
+    }
+
+    div.comparison {
+        width: 50%;
+    }
+
+}
+
+
+@media screen and (max-width:1654px) {
+    div.content>article {
+        width: 38%;
+    }
+
+    div.comparison {
+        width: 50%;
+    }
+
+}
+
+@media screen and (max-width:1536px) {
+    div.content>article {
+        width: 38%;
+    }
+
+    div.comparison {
+        width: 50%;
+    }
+
+}
+
+@media screen and (max-width:1530px) {
+    div.content>article {
+        width: 35%;
+    }
+
+    div.comparison {
+        width: 46%;
+    }
+
+}
+
+
+@media screen and (max-width:1497px) {
+    div.content>article {
+        width: 37%;
+    }
+
+    div.comparison {
+        width: 52%;
+    }
+
+}
+
+@media screen and (max-width:1477px) {
+    div.content>article {
+        width: 35%;
+    }
+
+    div.comparison {
+        width: 53%;
+    }
+}
+
+@media screen and (max-width:1470px) {
+    div.content>article {
+        width: 35%;
+    }
+
+    div.comparison {
+        width: 52%;
+    }
+}
+
+
+
+@media screen and (max-width:1451px) {
+    div.content>article {
+        width: 35%;
+    }
+
+    div.comparison {
+        width: 55%;
+    }
+}
+
+@media screen and (max-width:1397px) {
+    div.content>article {
+        width: 35%;
+    }
+
+    div.comparison {
+        width: 56%;
+    }
+}
+
+@media screen and (max-width:1372px) {
+    div.content>article {
+        width: 38%;
+    }
+
+    div.comparison {
+        width: 50%;
+    }
+}
+
+
+@media screen and (max-width:1351px) {
+    div.content>article {
+        width: 43%;
+    }
+
+    div.comparison {
+        width: 56%;
+    }
+}
+
+@media screen and (max-width:1351px) {
+    div.content>article {
+        width: 41%;
+    }
+
+    div.comparison {
+        width: 54%;
+    }
+}
+
+@media screen and (max-width:1338px) {
+    div.content>article {
+        width: 43%;
+    }
+
+    div.comparison {
+        width: 54%;
+    }
+}
+
+
+@media screen and (max-width:1117px) {
+    div.content {
+        width: 98%;
+        display: block;
+    }
+
+    div.content>article {
+        width: 100%;
+    }
+
+    div.comparison {
+        width: 100%;
+        margin: 10px 2%;
+    }
+
+    div.comparison article{
+        width: 48%
+    }
+
+    div.comparison img {
+        display: block;
+        margin-left: calc(50% - 50px);
+    }
+
+    article ul {
+        width: 112%;
+        padding-left: 0;
+        position: relative;
+        padding-top: 15px;
+    }
+}
+
+
+
+
+
+
+
+
