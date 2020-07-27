@@ -1,78 +1,19 @@
-@font-face {
-    font-family: snowy;
-    src: url(fonts/almonte.snow.ttf);
-}
-
 body {
     padding: 0;
     margin: 0;
-    height: calc(100% - 70px);
 }
 
-header {
-    background-image: url(images/arctic-3.jpg);
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../images/explore-polar-animals.jpg');
     background-size: cover;
-    height: 700px;
-}
-
-header nav ul li {
-    display: inline-block;
-}
-
-nav {
-    background: #24292E;
-    opacity: 0.7;
-    font-size: 20px;
-    font-family: sans-serif;
-    height: 75px;
-}
-
-nav img {
-    width: 50px;
-    height: 40px;
-    position: relative;
-    bottom: -8px;
-    visibility: hidden;
-}
-
-nav.small-screen {
-    display: none;
-}
-
-header ul {
-    list-style: none;;
-    position: relative;
-    top: -25px;
-}
-
-header ul li {
-    display: inline-block;
-    margin-right: 25px;
-}
-
-header ul li a {
-    text-decoration: none;
-    color: #C8C9CA;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 ul.small {
     display: none;
-}
-
-header h1 {
-    font-size: 100px;
-    text-align: center;
-    font-family: snowy, sans-serif;
-    color: deepskyblue;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    position: relative;
-    bottom: -50px;
-    z-index: 2000;
-}
-
-header li:hover {
-    font-weight: bold;
 }
 
 div.characteristic {
@@ -81,16 +22,12 @@ div.characteristic {
 
 section.articles {
     background-size: cover;
-    height: 1000px;
     color: white;
-    position: relative;
-    top: -70px;
-    margin-bottom: -70px;
-    background-image: url(images/artciles.jpg);
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/polar-habitat.jpg);
 }
 
-ol {
-    z-index: 1000;
+section.articles.container-fluid * {
+    color: white;
 }
 
 section.articles article {
@@ -212,9 +149,8 @@ section.articles article.snowy-owl:hover {
         width: 100%;
     }
 
-    section.articles {
-        background-image: none;   
-        color: black;
+    section.articles.container-fluid {
+        background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("../images/polar-habitat-mobile.jpg");
     }
 
     section.articles article {
@@ -245,3 +181,5 @@ section.articles article.snowy-owl:hover {
         display: none;
     }
 }
+
+/* TODO: min=1001max1160*/
