@@ -6,7 +6,7 @@ body {
 .masthead {
     height: 100vh;
     min-height: 500px;
-    background-image: url('../images/explore-polar-animals.jpg');
+    background-image: url('../images/backgrounds/explore-polar-animals.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -23,7 +23,7 @@ div.characteristic {
 section.articles {
     background-size: cover;
     color: white;
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/polar-habitat.jpg);
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/backgrounds/polar-habitat.jpg);
 }
 
 section.articles.container-fluid * {
@@ -150,7 +150,7 @@ section.articles article.snowy-owl:hover {
     }
 
     section.articles.container-fluid {
-        background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("../images/polar-habitat-mobile.jpg");
+        background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("../images/backgrounds/polar-habitat-mobile.jpg");
     }
 
     section.articles article {
@@ -167,10 +167,6 @@ section.articles article.snowy-owl:hover {
         display: none;
     }
 
-    body article p {
-        height: 100px;
-    }
-
     body article#intro p {
         height: 50px;
     }
@@ -181,5 +177,3 @@ section.articles article.snowy-owl:hover {
         display: none;
     }
 }
-
-/* TODO: min=1001max1160*/

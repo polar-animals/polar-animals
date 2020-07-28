@@ -4,27 +4,6 @@ html body {
     background: linear-gradient(to left, #53346D, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-header nav ul li {
-    display: inline-block;
-}
-
-ul {
-    list-style: none;
-    float: left;
-    position: relative;
-    bottom: -25px;
-}
-
-ul li {
-    display: inline-block;
-    margin-right: 25px;
-}
-
-ul li a {
-    text-decoration: none;
-    color: #C8C9CA;
-}
-
 div.intro {
     color: white;
     text-align: justify;
@@ -38,17 +17,15 @@ div.intro {
     border-radius: 10px;
 }
 
-div.intro img {
+article.intro-and-facts img {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     float: left;
     margin-right: 15px;
-    position: relative;
-    top: -15px;
 }
 
-body article {
+body article.intro-and-facts section.facts div {
      padding: 50px;
      margin-top: 5px;
      margin-bottom: 5px;
@@ -60,63 +37,63 @@ body article {
      border-radius: 10px;
 }
 
-body article p {
+body article.intro-and-facts section.facts div p {
     height: 100px;
     text-align: justify;
     font-size: 18px;
 }
 
-body article h1 {
+body article.intro-and-facts section.facts div h2 {
     margin-bottom: 30px;
     font-size: 28px;
 }
 
 
-body article:nth-child(1) {
+body article.intro-and-facts section.facts div:nth-child(1) {
     background: rgba(255, 0, 0, 0.4);;
 }
 
-body article:nth-child(2) {
+body article.intro-and-facts section.facts div:nth-child(2) {
     background: rgba(255, 0, 255, 0.4);;
 }
 
-body article:nth-child(3) {
+body article.intro-and-facts section.facts div:nth-child(3) {
     background: rgba(0, 0, 255, 0.4);
 }
 
-body article:nth-child(4) {
+body article.intro-and-facts section.facts div:nth-child(4) {
     background: rgba(255, 255, 0, 0.4);
 }
 
-body article:nth-child(5) {
+body article.intro-and-facts section.facts div:nth-child(5) {
     background: rgba(93, 63, 182, 0.4);
 }
 
-body article:nth-child(6) {
+body article.intro-and-facts section.facts div:nth-child(6) {
     background: rgba(0, 255, 0, 0.4);
 }
 
-body article:nth-child(7) {
+body article.intro-and-facts section.facts div:nth-child(7) {
     background: rgba(255, 6, 108, 0.4);
 }
 
-body article:nth-child(8) {
+body article.intro-and-facts section.facts div:nth-child(8) {
     background: rgba(39, 131, 197, 0.4);
 }
 
-body article:nth-child(9) {
+body article.intro-and-facts section.facts div:nth-child(9) {
     background: rgba(187, 255, 17, 0.4);
 }
 
-body article:nth-child(10) {
+body article.intro-and-facts section.facts div:nth-child(10) {
     background: rgba(255, 164, 255, 0.4);
 }
 
-body article:nth-child(11) {
+body article.intro-and-facts section.facts div:nth-child(11) {
     background: rgba(255, 44, 44, 0.4);
 }
 
-body article:nth-child(12) {
+body article.intro-and-facts section.facts div:nth-child(12) {
     background: rgba(0, 255, 0, 0.4);
 }
 
@@ -125,9 +102,6 @@ article img {
     width: 100px;
     height: 100px;
     float: left;
-    position: relative;
-    left: -25px;
-    top: -15px;
 }
 
 section.compare {
@@ -139,7 +113,7 @@ section.compare {
     overflow: hidden;
 }
 
-section.compare h1{
+section.compare h2{
     color: white;
     text-align: center;
     padding-top: 10px;
@@ -153,7 +127,6 @@ section.compare img {
 
 div.content>article {
     margin: 10px 10px;
-    font-size: 22px;
     width: 53%;
     background: rgba(10, 255, 200, 0.4);
     display: inline-block;
@@ -230,7 +203,7 @@ footer {
     text-align: center;
 }
 
-footer h1 {
+footer h2 {
     margin-bottom: 30px;
 }
 
@@ -295,126 +268,82 @@ footer section.third:hover {
     color: white;
 }
 
-body article:nth-child(1):hover {
+body article.intro-and-facts section.facts div:nth-child(1):hover {
     background: rgba(255, 0, 0, 0.7);
 }
 
-body article:nth-child(2):hover {
+body article.intro-and-facts section.facts div:nth-child(2):hover {
     background: rgba(255, 0, 255, 0.7);;
 }
 
-body article:nth-child(3):hover {
+body article.intro-and-facts section.facts div:nth-child(3):hover {
     background: rgba(0, 0, 255, 0.7);
 }
 
-body article:nth-child(4):hover {
+body article.intro-and-facts section.facts div:nth-child(4):hover {
     background: rgba(255, 255, 0, 0.7);
 }
 
-body article:nth-child(5):hover{
+body article.intro-and-facts section.facts div:nth-child(5):hover {
     background: rgba(93, 63, 182, 0.7);
 }
 
-body article:nth-child(6):hover {
+body article.intro-and-facts section.facts div:nth-child(6):hover {
     background: rgba(0, 255, 0, 0.7);
 }
 
-body article:nth-child(7):hover {
+body article.intro-and-facts section.facts div:nth-child(7):hover {
     background: rgba(255, 6, 108, 0.7);
 }
 
-body article:nth-child(8):hover {
+body article.intro-and-facts section.facts div:nth-child(8):hover {
     background: rgba(39, 131, 197, 0.7);
 }
 
-body article:nth-child(9):hover {
+body article.intro-and-facts section.facts div:nth-child(9):hover {
     background: rgba(187, 255, 17, 0.7);
 }
 
-body article:nth-child(10):hover {
+body article.intro-and-facts section.facts div:nth-child(10):hover {
     background: rgba(255, 164, 255, 0.7);
 }
 
-body article:nth-child(11):hover {
+body article.intro-and-facts section.facts div:nth-child(11):hover {
     background: rgba(255, 44, 44, 0.7);
 }
 
-body article:nth-child(12):hover {
+body article.intro-and-facts section.facts div:nth-child(12):hover {
     background: rgba(0, 255, 0, 0.7);
 }
 
-@media screen and (max-width: 1180px) {
-   article h1 {
-        font-size: 30px;
-    }
-}
-
-@media screen and (min-width: 1300px) {
-   body article p {
-        font-size: 22px;
-    }
-
-       article h1 {
-        font-size: 38px;
-    }
-}
-
 @media screen and (min-width: 1070px) {
-    body article:nth-child(3) {
+    body article.intro-and-facts section.facts div:nth-child(3) {
         margin-right: 0;        
     }
 
-    body article:nth-child(6) {
+    body article.intro-and-facts section.facts div:nth-child(6) {
         margin-right: 0;
     }
 
-    body article:nth-child(9) {
+    body article.intro-and-facts section.facts div:nth-child(9) {
         margin-right: 0;
     }
 
-    body article:nth-child(12) {
+    body article.intro-and-facts section.facts div:nth-child(12) {
         margin-right: 0;
     }
 
 }
 
-@media screen and (max-width: 1070px) {
-    body article:nth-child(2) {
-        margin-right: 0;        
-    }
-
-    body article:nth-child(4) {
-        margin-right: 0;
-    }
-
-    body article:nth-child(6) {
-        margin-right: 0;
-    }
-
-    body article:nth-child(8) {
-        margin-right: 0;
-    }
-
-    body article:nth-child(10) {
-        margin-right: 0;
-    }
-
-    body article:nth-child(12) {
-        margin-right: 0;
-    }
-
-    body article {
-        width: 47%;
-    }
-
-    body article h1 {
-        font-size: 30px;
+@media screen and (max-width: 985px) {
+    body article.intro-and-facts section.facts div {
+        width: 45%;
     }
 }
 
 @media screen and (max-width: 770px) {
 
-    body article {
+    body article.intro-and-facts section.facts div {
         width: 95%;
         margin-left: 0px;
         margin-right: 0px;
@@ -425,7 +354,7 @@ body article:nth-child(12):hover {
         left: 25px;
     }
 
-    article p {
+    body article.intro-and-facts section.facts div p {
         width: 80%;
     }
 }
