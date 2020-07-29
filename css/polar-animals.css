@@ -104,7 +104,7 @@ article img {
     float: left;
 }
 
-section.compare {
+article.compare {
     margin: 30px auto;
     background: rgba(255, 0, 255, 0.4);
     width: 98%;
@@ -113,24 +113,27 @@ section.compare {
     overflow: hidden;
 }
 
-section.compare h2{
+article.compare h2{
     color: white;
     text-align: center;
     padding-top: 10px;
 }
 
-section.compare img {
+article.compare img {
     width: 100px;
     height: 100px;
     border-radius: 50%;
 }
 
-div.content>article {
+div.content>div {
     margin: 10px 10px;
     width: 53%;
-    background: rgba(10, 255, 200, 0.4);
     display: inline-block;
     font-size: 25px;
+}
+
+div.content > div:first-child {
+    padding: 40px;
 }
 
 div.content {
@@ -140,28 +143,30 @@ div.content {
     align-items: center;
     justify-content: center;
 }
-div.content article {
+div.content div {
     width: 45%;
     font-size: 20px;
 }
 
-article ul {
+div.comparison ul {
     display: inline-block;
     width: calc(100% - 120px);
     position: relative;
     top: -20px;
-    list-style: circle;
-    list-style-type: circle;
+    list-style: none;
 }
 
-article ul li{
+div.comparison ul li{
     margin-bottom: 10px;
 }
 
-div.comparison article img {
+div.comparison div img {
     display: inline-block;
 }
 
+div.comparison {
+    background: none;
+}
 
 div.comparison {
     display: inline-block;
@@ -169,31 +174,44 @@ div.comparison {
     margin-bottom: 10px;
 }
 
-div.comparison article{
+div.comparison div{
     display: inline-block;
     width: 100%;
     padding-bottom: 0px;
     font-size: 22px;
+    padding: 20px;
 }
 
-div.comparison article img {
+div.comparison div img {
     left: 0;
     margin-bottom: 10px;
 }
 
-body div.content>article {
+article.compare div {
+    border-radius: 10px;
+}
+
+body div.content > div:first-child {
+    background: rgba(255, 0, 255, 0.4);
+}
+
+body div.content > div:first-child:hover {
+    background: rgba(255, 0, 255, 0.7);
+}
+
+body div.content div.comparison>div:last-child  {
     background: rgba(0, 255, 0, 0.4);
 }
 
-body div.content>article:hover {
+body div.content div.comparison>div:last-child:hover {
     background: rgba(0, 255, 0, 0.7);
 }
 
-body div.content div.comparison>:first-child {
+body div.content div.comparison>div:first-child {
     background: rgba(0, 0, 255, 0.4);
 }
 
-body div.content div.comparison>:first-child:hover {
+body div.content div.comparison>div:first-child:hover {
     background: rgba(0, 0, 255, 0.7);
 }
 
@@ -316,6 +334,14 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
     background: rgba(0, 255, 0, 0.7);
 }
 
+article.compare {
+    color:white;
+}
+
+div.comparison > div {
+    margin-bottom: 15px;
+}
+
 @media screen and (min-width: 1070px) {
     body article.intro-and-facts section.facts div:nth-child(3) {
         margin-right: 0;        
@@ -360,7 +386,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 }
 
 @media screen and (max-width:1750px) {
-    div.content>article {
+    div.content>div {
         width: 37%;
     }
 
@@ -371,7 +397,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 }
 
 @media screen and (max-width:1900px) {
-    div.content>article {
+    div.content>div {
         width: 33%;
     }
 
@@ -383,7 +409,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 
 
 @media screen and (max-width:1654px) {
-    div.content>article {
+    div.content>div {
         width: 38%;
     }
 
@@ -394,7 +420,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 }
 
 @media screen and (max-width:1536px) {
-    div.content>article {
+    div.content>div {
         width: 38%;
     }
 
@@ -405,7 +431,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 }
 
 @media screen and (max-width:1530px) {
-    div.content>article {
+    div.content>div {
         width: 35%;
     }
 
@@ -417,7 +443,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 
 
 @media screen and (max-width:1497px) {
-    div.content>article {
+    div.content>div {
         width: 37%;
     }
 
@@ -428,7 +454,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 }
 
 @media screen and (max-width:1477px) {
-    div.content>article {
+    div.content>div {
         width: 35%;
     }
 
@@ -438,7 +464,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 }
 
 @media screen and (max-width:1470px) {
-    div.content>article {
+    div.content>div {
         width: 35%;
     }
 
@@ -450,7 +476,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 
 
 @media screen and (max-width:1451px) {
-    div.content>article {
+    div.content>div {
         width: 35%;
     }
 
@@ -460,7 +486,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 }
 
 @media screen and (max-width:1397px) {
-    div.content>article {
+    div.content>div {
         width: 35%;
     }
 
@@ -470,7 +496,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 }
 
 @media screen and (max-width:1372px) {
-    div.content>article {
+    div.content>div {
         width: 38%;
     }
 
@@ -481,7 +507,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 
 
 @media screen and (max-width:1351px) {
-    div.content>article {
+    div.content>div {
         width: 43%;
     }
 
@@ -491,7 +517,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 }
 
 @media screen and (max-width:1351px) {
-    div.content>article {
+    div.content>div {
         width: 41%;
     }
 
@@ -501,7 +527,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
 }
 
 @media screen and (max-width:1338px) {
-    div.content>article {
+    div.content>div {
         width: 43%;
     }
 
@@ -517,7 +543,7 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
         display: block;
     }
 
-    div.content>article {
+    div.content>div {
         width: 100%;
     }
 
@@ -526,8 +552,8 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
         margin: 10px 2%;
     }
 
-    div.comparison article{
-        width: 48%
+    div.comparison div{
+        width: 49%
     }
 
     div.comparison img {
@@ -535,8 +561,8 @@ body article.intro-and-facts section.facts div:nth-child(12):hover {
         margin-left: calc(50% - 50px);
     }
 
-    article ul {
-        width: 112%;
+    div.comparison ul {
+        width: 100%;
         padding-left: 0;
         position: relative;
         padding-top: 15px;
