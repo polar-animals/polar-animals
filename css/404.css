@@ -1,0 +1,92 @@
+.masthead {
+    min-height: 500px;
+    background: linear-gradient( rgba(22, 99, 246, 0.5), rgba(0, 0, 0, 0.5)), url('../images/status-codes/404.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    font-weight: 100;
+}
+
+.check-out {
+    color: white;
+    text-align: center;
+}
+
+.check-out h2 {
+    margin-bottom: 30px;
+}
+
+.check-out section {
+    min-width: 300px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.check-out section img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.check-out a {
+    display: inline-block;
+    color: white;
+    margin-right: 20px;
+}
+
+.check-out section.first {
+    background: rgba(0, 0, 255, 0.4);
+    padding: 30px 10px;
+    margin-bottom: 20px;
+}
+
+.check-out section.second {
+    background: rgba(93, 63, 182, 0.4);
+    padding: 30px 10px;
+    margin-bottom: 20px;
+}
+
+.check-out section.third {
+    background: rgba(39, 131, 197, 0.4);
+    padding: 30px 10px;
+    margin-bottom: 20px;
+}
+
+.check-out section.fourth {
+    background: rgba(196, 59, 197, 0.4);
+    padding: 30px 10px;
+    margin-bottom: 20px;
+}
+.check-out {
+    display: flex;
+    flex-wrap: row;
+    flex-grow: 1;
+}
+
+.check-out section.first:hover {
+    background: rgba(0, 0, 255, 0.7);
+    cursor: pointer;
+    color: white;
+}
+
+
+.check-out section.second:hover {
+    background: rgba(93, 63, 182, 0.7);
+    cursor: pointer;
+    color: white;
+}
+
+.check-out section.third:hover {
+    background: rgba(39, 131, 197, 0.7);
+    cursor: pointer;
+    color: white;
+}
+
+.check-out section.fourth:hover {
+    background: rgba(196, 59, 197, 0.7);
+    padding: 30px 10px;
+    margin-bottom: 20px;
+}

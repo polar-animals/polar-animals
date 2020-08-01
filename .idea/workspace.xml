@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e524eac-a9ee-425c-a919-9b8cae8b414f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/polar-animals.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/polar-animals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/almonte.snow.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/snowtt.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/article/arctic-fox.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/article/arctic-fox.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/article/polar-bear.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/article/polar-bear.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/article/snowy-owl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/article/snowy-owl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/comparisons/arctic-fox.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/comparisons/arctic-fox.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/comparisons/emperor-penguin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/comparisons/emperor-penguin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/comparisons/great-horned-owl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/comparisons/great-horned-owl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/comparisons/grizzly-bear.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/comparisons/grizzly-bear.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/comparisons/little-penguin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/comparisons/little-penguin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/comparisons/polar-bear.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/comparisons/polar-bear.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/comparisons/red-fox.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/comparisons/red-fox.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/comparisons/snowy-owl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/footer/arctic-fox.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/footer/arctic-fox.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/footer/penguins.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/footer/penguins.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/footer/polar-bears.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/footer/polar-bears.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/footer/snowy-owl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/footer/snowy-owl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/homepage/arctic-fox.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/homepage/arctic-fox.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/homepage/penguin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/homepage/penguin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/homepage/polar-bear.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/homepage/polar-bear.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar-animals/homepage/snowy-owl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar-animals/homepage/snowy-owl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polar-animals/arctic-fox.html" beforeDir="false" afterPath="$PROJECT_DIR$/polar-animals/arctic-fox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polar-animals/penguin.html" beforeDir="false" afterPath="$PROJECT_DIR$/polar-animals/penguin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polar-animals/polar-bear.html" beforeDir="false" afterPath="$PROJECT_DIR$/polar-animals/polar-bear.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polar-animals/snowy-owl.html" beforeDir="false" afterPath="$PROJECT_DIR$/polar-animals/snowy-owl.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polar-animals/polar-bear.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polar-animals/penguin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polar-animals/snowy-owl.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-208">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sitemap.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sitemap.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polar-animals/arctic-fox.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-51">
+              <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/404.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="116" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alt=&quot;</find>
+      <find>intro-and-facts</find>
+      <find>h1</find>
+      <find>98</find>
+      <find>p</find>
+      <find>text-align:</find>
+      <find>77</find>
+      <find>.compare</find>
+      <find>h2</find>
+      <find>article</find>
+      <find>div.comparison</find>
+      <find>ul</find>
+      <find>content</find>
+      <find>padding:</find>
+      <find>padding</find>
+      <find>compare</find>
+      <find>border-radius</find>
+      <find>div.content div</find>
+      <find>comparison</find>
+      <find>117</find>
+      <find>&lt;img</find>
+      <find>bear</find>
+      <find>img</find>
+      <find>ml</find>
+      <find>margin</find>
+      <find>mr-</find>
+      <find>class=&quot;col-12 text-center</find>
+      <find>masthead</find>
+      <find>footer</find>
+      <find>Take me Home</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/css/404.css" />
+        <option value="$PROJECT_DIR$/css/polar-animals.css" />
+        <option value="$PROJECT_DIR$/polar-animals/penguin.html" />
+        <option value="$PROJECT_DIR$/polar-animals/arctic-fox.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/404.html" />
+        <option value="$PROJECT_DIR$/polar-animals/polar-bear.html" />
+        <option value="$PROJECT_DIR$/polar-animals/snowy-owl.html" />
+        <option value="$PROJECT_DIR$/sitemap.html" />
+        <option value="$PROJECT_DIR$/sitemap.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="667" />
+    <option name="width" value="1262" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="polar-animals.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polar-animals.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yoan\Desktop\polar-animals.github.io" />
+      <recent name="C:\Users\Yoan\Desktop\polar-animals.github.io\images\status-codes" />
+      <recent name="C:\Users\Yoan\Desktop\polar-animals.github.io\images" />
+      <recent name="C:\Users\Yoan\Desktop\polar-animals.github.io\images\puffins" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yoan\Desktop\polar-animals.github.io\images\backgrounds" />
+      <recent name="C:\Users\Yoan\Desktop\polar-animals.github.io\images\polar-animals\footer" />
+      <recent name="C:\Users\Yoan\Desktop\polar-animals.github.io\images\polar-animals\homepage" />
+      <recent name="C:\Users\Yoan\Desktop\polar-animals.github.io\images\polar-animals\comparisions" />
+      <recent name="C:\Users\Yoan\Desktop\polar-animals.github.io\images\polar-animals\article" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.sitemap.html">
+    <configuration name="404.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/polar-animals.github.io/404.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="sitemap.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/polar-animals.github.io/sitemap.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.sitemap.html" />
+        <item itemvalue="JavaScript Debug.404.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e524eac-a9ee-425c-a919-9b8cae8b414f" name="Default Changelist" comment="" />
+      <created>1595873567759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595873567759</updated>
+      <workItem from="1595873569195" duration="5656000" />
+      <workItem from="1595959998394" duration="8400000" />
+      <workItem from="1596045474739" duration="9699000" />
+      <workItem from="1596271460802" duration="13056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36811000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2557047" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24664879" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21543624" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.38337803" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/puffins/flying.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/arctic.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/arctic-2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/arctic-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/artciles.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/bear-2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/article/polar-bear.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/comparisons/grizzly-bear.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/comparisons/polar-bear.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/homepage/polar-bear.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/footer/arctic-fox.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/fox-2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/comparisons/red-fox.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/article/arctic-fox.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/fox-wide.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/comparisons/arctic-fox.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/owl-4.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/comparisons/great-horned-owl.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/homepage/snowy-owl.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/article/snowy-owl.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sunset-1208906_960_720.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/penguins-wide.png" />
+    <entry file="file://$PROJECT_DIR$/images/penguins-2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/footer/penguins.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/backgrounds/explore-polar-animals.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/backgrounds/polar-habitat-mobile.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/backgrounds/polar-habitat.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/article/penguin.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/comparisons/emperor-penguin.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/comparisons/little-penguin.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/homepage/penguin.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/footer/polar-bears.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/footer/snowy-owl.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.1.1.min.js" />
+    <entry file="file://$PROJECT_DIR$/images/status-codes/404.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/polar-animals.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="78" selection-start-line="18" selection-start-column="78" selection-end-line="18" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/homepage/penguin.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/homepage/arctic-fox.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/comparisons/snowy-owl.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/polar-animals/comparisons/snowy-owl.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polar-animals/polar-bear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polar-animals/snowy-owl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polar-animals/penguin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polar-animals/arctic-fox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/404.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="116" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
