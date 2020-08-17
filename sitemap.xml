@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://polar-animals.github.io/</loc>
+        <loc>https://polar-animals.github.io</loc>
         <lastmod>2020-07-29T20:24:34+00:00</lastmod>
         <priority>1.00</priority>
       </url>
       <url>
-        <loc>https://polar-animals.github.io/polar-animals/polar-bear/</loc>
+        <loc>https://polar-animals.github.io/polar-animals/polar-bear</loc>
         <lastmod>2020-07-29T20:24:34+00:00</lastmod>
         <priority>0.80</priority>
       </url>
       <url>
-        <loc>https://polar-animals.github.io/polar-animals/penguin/</loc>
+        <loc>https://polar-animals.github.io/polar-animals/penguin</loc>
         <lastmod>2020-07-29T20:24:34+00:00</lastmod>
         <priority>0.80</priority>
       </url>
       <url>
-        <loc>https://polar-animals.github.io/polar-animals/snowy-owl/</loc>
+        <loc>https://polar-animals.github.io/polar-animals/snowy-owl</loc>
         <lastmod>2020-07-29T20:24:34+00:00</lastmod>
         <priority>0.80</priority>
       </url>
       <url>
-        <loc>https://polar-animals.github.io/polar-animals/arctic-fox/</loc>
+        <loc>https://polar-animals.github.io/polar-animals/arctic-fox</loc>
         <lastmod>2020-07-29T20:24:34+00:00</lastmod>
         <priority>0.80</priority>
       </url>
